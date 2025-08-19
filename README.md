@@ -6,7 +6,7 @@
 
 push_swap is a core project at 42 where the challenge is to sort a stack of integers using a limited set of operations — and to do it with the **least number of moves possible**. You are only allowed to use two stacks (`A` and `B`) and a handful of operations like `sa`, `pb`, `ra`, etc.
 
-This was my **first large-scale algorithmic project**, and it turned out to be the one I had the most fun building! 🎉  
+This was my **first large-scale algorithmic project**, and it turned out to be the one I had the most fun building!
 To solve it efficiently, I implemented a **Radix Sort** algorithm using **bitwise operations**, built on top of a custom **doubly linked list** structure for fast and clean manipulation of stack elements.
 
 ---
